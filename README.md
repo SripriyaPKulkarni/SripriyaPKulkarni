@@ -35,7 +35,7 @@ ISTQB certification | Automation and Manual Testing Course from Qspiders | Scrum
 
 ## More about me ⬇⬇
 🌱 I’m currently learning Advanced Automation Testing concepts.
-📍📍 I blog at softwaretestingcafe.blogspot.com
+📍📍 I blog at https://softwaretestingcafe.blogspot.com/
 👯 I’m looking to collaborate on open source projects and new job opportunities.
 🤔 I’m looking for new opportunities.
 💬 Ask me about Software Testing.
