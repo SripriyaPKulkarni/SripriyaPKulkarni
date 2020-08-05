@@ -5,6 +5,9 @@
 
 🔭 I’m currently working on Software Testing projects
 
+# Career Summary
+### Dedicated Test Engineer with excellent technical, analytical and communication skills demonstrated by 2 plus years of experience in full system development lifecycle experience, including designing, developing and implementing test plans, test cases and test processes fuelling swift corrective actions, significant cost savings and fault-free audits. Perform and coordinate QA activities such as estimation, test planning, test design, preparation of traceability matrix, test execution, test results analysis.
+
 <!--
 **SripriyaPKulkarni/SripriyaPKulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
