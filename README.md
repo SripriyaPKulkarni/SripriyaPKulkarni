@@ -8,6 +8,12 @@
 # Career Summary
 ### Dedicated Test Engineer with excellent technical, analytical and communication skills demonstrated by 2 plus years of experience in full system development lifecycle experience, including designing, developing and implementing test plans, test cases and test processes fuelling swift corrective actions, significant cost savings and fault-free audits. Perform and coordinate QA activities such as estimation, test planning, test design, preparation of traceability matrix, test execution, test results analysis.
 
+# Technical Skills
+### Manual Testing: Smoke Testing | Functional Testing | Integration Testing | System Testing | Exploratory Testing | Rest API testing | PostMan | API testing using SOAP UI Tool |Microservices Testing | Jenkins CI/CD | Security Testing
+### Database Testing: SQL, MySQL
+### Agile process: Attending daily stand-up meetings. Attending planning poker activity. Good in analysing burn down chart. Understanding user stories and preparing test cases.
+### Automation Testing Using Selenium Web Driver: Core java | Python | TestNG | POI API 
+
 <!--
 **SripriyaPKulkarni/SripriyaPKulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
