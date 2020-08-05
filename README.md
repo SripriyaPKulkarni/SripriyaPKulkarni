@@ -1,4 +1,8 @@
 ### Hi there 👋
+# Sri Priya P Kulkarni
+### Bengaluru,Karnataka,India
+## sp1211996@gmail.com | https://www.linkedin.com/in/sri-priya-p-kulkarni-375680143/
+
 
 <!--
 **SripriyaPKulkarni/SripriyaPKulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
