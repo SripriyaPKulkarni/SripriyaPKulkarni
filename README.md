@@ -33,9 +33,10 @@ B.E in ECE from VTU University with FCD | 2017
 ## Certification: 
 ISTQB certification | Automation and Manual Testing Course from Qspiders | Scrum Fundamentals Certification | Six Sigma Yellow Belt
 
+## More about me ⬇⬇
 🌱 I’m currently learning Advanced Automation Testing concepts.
 👯 I’m looking to collaborate on open source projects and new job opportunities.
-🤔 I’m looking for help with to find opportunities.
+🤔 I’m looking for new opportunities.
 💬 Ask me about Software Testing.
 📫 How to reach me: sp1211996@gmail.com
 😄 Pronouns: Learn something new everyday...!!!!
