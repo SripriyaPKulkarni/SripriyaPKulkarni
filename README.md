@@ -17,7 +17,9 @@
 # Professional Experience
 ## Broadridge Financial Solutions Pvt Ltd, Bengaluru
 •	Responsible for Testing & deploying Quality Software to QA, UAT and Production environments. Performed Exploratory Testing on CRM application. Responsible for Load and Performance Testing of Rest APIs of CDSL application. Performed Sanity Testing on Content Manager and Campaign Manager Applications.
-•	In-depth expertise in technologies like Selenium, Java, TestNG, Rest API, Maven, GIT and Jenkins, basic working knowledge of Linux. Responsible for ensuring the Quality of Software with zero defects. Responsible for the overall quality of IT projects and changes through execution of all aspects of the Software Development and Testing Life Cycle. 
+
+•	In-depth expertise in technologies like Selenium, Java, TestNG, Rest API, Maven, GIT and Jenkins, basic working knowledge of Linux. Responsible for ensuring the Quality of Software with zero defects. Responsible for the overall quality of IT projects and changes through execution of all aspects of the Software Development and Testing Life Cycle.
+
 •	Prepare robust test cases, log defects and produce status reports. Conduct feasibility study, assist with automation utilizing current frameworks and tools. Streamline the testing process by introducing automation, leveraging tools to reduce time and effort. Manage and create test data. Work closely with offshore vendor teams to ensure continued support and test execution in various time zones. Assist in building and configuring test environments
 
 ## KeyResult Areas
