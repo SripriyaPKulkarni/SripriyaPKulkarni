@@ -20,6 +20,27 @@
 •	In-depth expertise in technologies like Selenium, Java, TestNG, Rest API, Maven, GIT and Jenkins, basic working knowledge of Linux. Responsible for ensuring the Quality of Software with zero defects. Responsible for the overall quality of IT projects and changes through execution of all aspects of the Software Development and Testing Life Cycle. 
 •	Prepare robust test cases, log defects and produce status reports. Conduct feasibility study, assist with automation utilizing current frameworks and tools. Streamline the testing process by introducing automation, leveraging tools to reduce time and effort. Manage and create test data. Work closely with offshore vendor teams to ensure continued support and test execution in various time zones. Assist in building and configuring test environments
 
+## KeyResult Areas
+Ensured zero defects in UAT and PROD environments. Ensured on time delivery of software. 
+## Highlights 
+Automated web based applications to reduce manual effort.  Achieved   90 % of automation coverage.
+## Tools
+Github, mavens, Jenkins, JIRA, Blade logic, HP-QC, PostMan, Selenium Web Driver, Linux
+## Education: 
+B.E in ECE from VTU University with FCD | 2017
+## Certification: 
+ISTQB certification | Automation and Manual Testing Course from Qspiders | Scrum Fundamentals Certification | Six Sigma Yellow Belt
+
+🌱 I’m currently learning Advanced Automation Testing concepts.
+👯 I’m looking to collaborate on open source projects and new job opportunities.
+🤔 I’m looking for help with to find opportunities.
+💬 Ask me about Software Testing.
+📫 How to reach me: sp1211996@gmail.com
+😄 Pronouns: Learn something new everyday...!!!!
+⚡ Fun fact: I love CHAI☕
+
+
+
 <!--
 **SripriyaPKulkarni/SripriyaPKulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
