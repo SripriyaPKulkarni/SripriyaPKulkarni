@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Sri Priya P Kulkarni
 ### Bengaluru,Karnataka,India
-## sp1211996@gmail.com | https://www.linkedin.com/in/sri-priya-p-kulkarni-375680143/
+## sp1211996@gmail.com |https://www.linkedin.com/in/sripriyapkulkarni
 
 🔭 I’m currently working on Software Testing projects
 
