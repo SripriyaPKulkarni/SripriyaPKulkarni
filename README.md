@@ -12,7 +12,7 @@
 ### Manual Testing: Smoke Testing | Functional Testing | Integration Testing | System Testing | Exploratory Testing | Rest API testing | PostMan | API testing using SOAP UI Tool |Microservices Testing | Jenkins CI/CD | Security Testing
 ### Database Testing: SQL, MySQL
 ### Agile process: Attending daily stand-up meetings. Attending planning poker activity. Good in analysing burn down chart. Understanding user stories and preparing test cases.
-### Automation Testing Using Selenium Web Driver: Core java | Python | TestNG | POI API | POM
+### Automation Testing Using Selenium Web Driver: Core java | TestNG | POI API | POM
 
 # Professional Experience
 ## Broadridge Financial Solutions Pvt Ltd, Bengaluru
