@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sri Priya P Kulkarni</h1>
 <h3 align="center">🔭 I’m currently working on Software Testing projects</h3>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div align=center>
   <a href="https://www.linkedin.com/in/sripriyapkulkarni"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
   <a href="https://twitter.com/PriyaKulkarni01"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
@@ -14,6 +18,8 @@
 
 -⚡To read my blog post, checkout [Software Testing Cafe](https://softwaretestingcafe.blogspot.com/).
 
+### :hammer_and_wrench: Languages and Tools : Core Java, Python, JIRA, HP-QC, GITHub
+
 ## Certification: 
 ISTQB certification | Automation and Manual Testing Course from Qspiders | Scrum Fundamentals Certification | Six Sigma Yellow Belt
 
@@ -26,3 +32,6 @@ ISTQB certification | Automation and Manual Testing Course from Qspiders | Scrum
 📫 How to reach me: sripriyapkulkarni@gmail.com
 😄 Pronouns: Learn something new everyday...!!!!
 ⚡ Fun fact: I love CHAI☕
+
+### :fire: My Stats : 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SripriyaPKulkarni&theme=dark&background=000000)](https://git.io/streak-stats)
