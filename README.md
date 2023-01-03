@@ -16,7 +16,7 @@
 
 -📫The best way to reach me over is [Linkedin](https://www.linkedin.com/in/sripriyapkulkarni). You can also send me a mail to sripriyapkulkarni@gmail.com.
 
--⚡To read my blog post, checkout [Software Testing Cafe](https://softwaretestingcafe.blogspot.com/).
+-⚡To read my blog post, checkout [Software Engineering Cafe](https://softwareengineeringcafe.blogspot.com/).
 
 ### :hammer_and_wrench: Languages and Tools : Core Java, Python, JIRA, HP-QC, GITHub
 
@@ -25,7 +25,7 @@ ISTQB certification | Automation and Manual Testing Course from Qspiders | Scrum
 
 ## More about me ⬇⬇
 🌱 I’m currently learning Advanced Automation Testing concepts.
-📝 I  write articles at https://softwaretestingcafe.blogspot.com/
+📝 I  write articles at https://softwarengineeringcafe.blogspot.com/
 👯 I’m looking to collaborate on open source projects and new job opportunities.
 🤔 I’m looking for new opportunities.
 💬 Ask me about Software Testing.
