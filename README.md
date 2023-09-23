@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sri Priya P Kulkarni</h1>
-<h3 align="center">🔭 I’m currently working on Software Testing projects</h3>
+<h3 align="center">🔭 I’m currently working on Software Engineering projects</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
