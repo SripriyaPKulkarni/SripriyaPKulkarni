@@ -19,6 +19,10 @@
 ### :fire: My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SripriyaPKulkarni&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sripriyapkulkarni&show_icons=true&locale=en" alt="sripriyapkulkarni" /></p>
+
 -👨‍💻Dedicated Test Engineer with excellent technical, analytical and communication skills demonstrated by 6 years of experience in full system development lifecycle experience, including designing, developing and implementing test plans, test cases and test processes fuelling swift corrective actions, significant cost savings and fault-free audits. Perform and coordinate QA activities such as estimation, test planning, test design, preparation of traceability matrix, test execution, test results analysis.
 
 
