@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sripriyapkulkarni&show_icons=true&locale=en" alt="sripriyapkulkarni" /></p>
 
--👨‍💻Dedicated Test Engineer with excellent technical, analytical and communication skills demonstrated by 6 years of experience in full system development lifecycle experience, including designing, developing and implementing test plans, test cases and test processes fuelling swift corrective actions, significant cost savings and fault-free audits. Perform and coordinate QA activities such as estimation, test planning, test design, preparation of traceability matrix, test execution, test results analysis.
+-👨‍💻Dedicated Software Engineer with excellent technical, analytical and communication skills demonstrated by 6 years of experience in full system development lifecycle experience, including designing, developing and implementing test plans, test cases and test processes fuelling swift corrective actions, significant cost savings and fault-free audits. Perform and coordinate QA activities such as estimation, test planning, test design, preparation of traceability matrix, test execution, test results analysis.
 
 
 -📫The best way to reach me over is [Linkedin](https://www.linkedin.com/in/sripriyapkulkarni). You can also send me a mail to sripriyapkulkarni@gmail.com.
