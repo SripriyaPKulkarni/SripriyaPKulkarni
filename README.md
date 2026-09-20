@@ -571,13 +571,17 @@ I'm interested in collaborating on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Sri Priya's GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SripriyaPKulkarni&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Sri Priya's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SripriyaPKulkarni&theme=dark&background=000000" alt="GitHub Streak"/>
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SripriyaPKulkarni&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
