@@ -568,12 +568,10 @@ I'm interested in collaborating on:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sripriyapkulkarni&show_icons=true&locale=en" alt="Sri Priya's GitHub Stats"/>
-
+  <img src="./profile/stats.svg" alt="Sri Priya's GitHub Stats"/>
 </p>
 
 <p align="center">
