@@ -1,47 +1,613 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sri Priya P Kulkarni</h1>
-<h3 align="center">🔭 I’m currently working on Software Engineering projects</h3>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sri Priya P Kulkarni 👋
+</h1>
+
+<h3 align="center">
+  🤖 Forward Deployed AI Engineer | AI Engineering | Automation | API Engineering | Software Engineering
+</h3>
+
+<p align="center">
+  <em>Building practical AI solutions that connect LLMs, automation, APIs and real-world engineering workflows.</em>
+</p>
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="400"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/techiee12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techiee12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sripriyapkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sripriyapkulkarni" height="30" width="40" /></a>
-<a href="https://instagram.com/sripriyapkulkarni12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sripriyapkulkarni12" height="30" width="40" /></a>
-<a href="https://medium.com/@sripriyapkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sripriyapkulkarni" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sripriyapkulkarni&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SripriyaPKulkarni&theme=dark&background=000000)](https://git.io/streak-stats)
+## 🚀 About Me
 
+I'm a **Forward Deployed AI Engineer** with **8+ years of experience** across software engineering, test automation, API testing, UI automation and quality engineering.
 
+I'm passionate about applying **AI to real-world engineering problems** and building systems that combine:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sripriyapkulkarni&show_icons=true&locale=en" alt="sripriyapkulkarni" /></p>
+* 🤖 AI & LLM applications
+* 🧠 AI Agents
+* 🔌 APIs & system integrations
+* 🧪 Test automation
+* ⚙️ Developer productivity
+* 🏗️ System design
+* 🔄 CI/CD automation
+* 📊 Data-driven engineering
 
--👨‍💻Dedicated Software Engineer with excellent technical, analytical and communication skills demonstrated by 6 years of experience in full system development lifecycle experience, including designing, developing and implementing test plans, test cases and test processes fuelling swift corrective actions, significant cost savings and fault-free audits. Perform and coordinate QA activities such as estimation, test planning, test design, preparation of traceability matrix, test execution, test results analysis.
+My engineering background in automation and quality engineering gives me a strong perspective on building AI systems that are not only intelligent, but also **testable, reliable, observable and production-oriented**.
 
+---
 
--📫The best way to reach me over is [Linkedin](https://www.linkedin.com/in/sripriyapkulkarni). You can also send me a mail to sripriyapkulkarni@gmail.com.
+## 🤖 What I'm Building
 
--⚡To read my blog post, checkout [Software Engineering Cafe](https://softwareengineeringcafe.blogspot.com/).
+My current focus is on **AI-powered engineering solutions**.
 
+```text
+                         ┌──────────────────────┐
+                         │        AI / LLM      │
+                         └──────────┬───────────┘
+                                    │
+                         ┌──────────▼───────────┐
+                         │    AI Applications   │
+                         └──────────┬───────────┘
+                                    │
+             ┌──────────────────────┼──────────────────────┐
+             │                      │                      │
+             ▼                      ▼                      ▼
+       AI Agents              RAG Systems           AI APIs
+             │                      │                      │
+             └──────────────────────┼──────────────────────┘
+                                    │
+                         ┌──────────▼───────────┐
+                         │ Automation & Tools   │
+                         └──────────┬───────────┘
+                                    │
+                  ┌─────────────────┼─────────────────┐
+                  │                 │                 │
+                  ▼                 ▼                 ▼
+             API Testing       UI Testing        CI/CD
+                  │                 │                 │
+                  └─────────────────┼─────────────────┘
+                                    ▼
+                         Real-world Engineering
+                              Workflows
+```
 
-## Certification: 
-ISTQB certification | Automation and Manual Testing Course from Qspiders | Scrum Fundamentals Certification | Six Sigma Yellow Belt
+---
 
-## More about me ⬇⬇
-🌱 I’m currently learning Advanced Automation Testing concepts.
-📝 I  write articles at https://softwarengineeringcafe.blogspot.com/
-👯 I’m looking to collaborate on open source projects and new job opportunities.
-🤔 I’m looking for new opportunities.
-💬 Ask me about Software Testing.
-📫 How to reach me: sripriyapkulkarni@gmail.com
-😄 Pronouns: Learn something new everyday...!!!!
-⚡ Fun fact: I love CHAI☕
+# 🧠 AI Engineering
 
+I'm currently exploring and building with:
 
+* Large Language Models
+* LLM APIs
+* AI Agents
+* Agentic workflows
+* Prompt Engineering
+* Retrieval-Augmented Generation
+* Embeddings & Vector Search
+* AI APIs
+* AI-powered developer tools
+* AI-powered testing
+* AI evaluation
+* AI application architecture
+* Structured outputs
+* Tool calling
+* Multi-step AI workflows
+
+---
+
+# 🧪 AI + Automation
+
+One of my main areas of interest is combining **AI with software testing and automation**.
+
+### Example AI Engineering Workflow
+
+```text
+Requirement
+     │
+     ▼
+┌───────────────┐
+│   AI Agent    │
+└───────┬───────┘
+        │
+        ▼
+Requirement Analysis
+        │
+        ▼
+Test Scenario Generation
+        │
+        ▼
+Test Case Generation
+        │
+        ▼
+API / UI Automation
+        │
+        ▼
+Test Execution
+        │
+        ▼
+Failure Analysis
+        │
+        ▼
+AI-generated Insights
+```
+
+I'm particularly interested in building AI systems that can:
+
+* Understand requirements
+* Generate test scenarios
+* Generate test cases
+* Generate automation code
+* Execute API tests
+* Execute UI tests
+* Analyze failures
+* Understand logs
+* Identify potential root causes
+* Generate actionable reports
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI API Testing Agent
+
+An AI-powered API testing agent that understands API specifications and assists with test generation, execution and analysis.
+
+### Capabilities
+
+* API specification analysis
+* Test scenario generation
+* Positive & negative test generation
+* Boundary testing
+* API execution
+* Response validation
+* Failure analysis
+* AI-generated test reports
+
+### Tech
+
+`Python` `FastAPI` `LLM` `Pytest` `REST APIs` `Postman`
+
+---
+
+## 🧪 AI Test Case Generator
+
+Convert requirements and user stories into structured test scenarios and test cases using AI.
+
+```text
+User Story
+    ↓
+Requirement Analysis
+    ↓
+AI
+    ↓
+Functional Tests
+Negative Tests
+Boundary Tests
+Regression Tests
+    ↓
+Automation Skeleton
+```
+
+### Focus Areas
+
+* Requirement analysis
+* Test scenario generation
+* Test case generation
+* Edge case discovery
+* Regression test generation
+* Automation code generation
+
+---
+
+## 🧠 RAG Engineering Assistant
+
+An AI assistant that allows engineers to ask questions about technical documentation, API specifications, architecture documents and project knowledge.
+
+```text
+Documents
+    ↓
+Chunking
+    ↓
+Embeddings
+    ↓
+Vector Store
+    ↓
+Retriever
+    ↓
+LLM
+    ↓
+Grounded Response
+```
+
+### Technologies
+
+`Python` `RAG` `Embeddings` `Vector Database` `LLM APIs` `FastAPI`
+
+---
+
+## 🌍 World Cup 2026 Tracker
+
+A real-world engineering project combining APIs, data processing, backend development, dashboards and AI-powered insights.
+
+### Architecture
+
+```text
+Sports Data API
+       ↓
+Data Ingestion
+       ↓
+Backend Service
+       ↓
+Database
+       ↓
+AI Analysis
+       ↓
+Web Dashboard
+```
+
+### Focus Areas
+
+* REST APIs
+* Data processing
+* Backend engineering
+* Database design
+* System design
+* AI-generated insights
+* Automation
+
+---
+
+## 🔍 AI Failure Analysis Agent
+
+An AI-powered engineering assistant designed to analyze:
+
+```text
+Test Failures
+     +
+Application Logs
+     +
+API Responses
+     +
+Stack Traces
+        │
+        ▼
+    AI Agent
+        │
+        ▼
+Possible Root Cause
+        │
+        ▼
+Suggested Investigation
+        │
+        ▼
+Recommended Action
+```
+
+The goal is to reduce the time engineers spend manually analyzing repetitive failures.
+
+---
+
+# 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+
+</p>
+
+---
+
+### 🤖 AI / AI Engineering
+
+<p>
+
+`LLMs` `LLM APIs` `AI Agents` `RAG` `Embeddings` `Vector Search`
+
+`Prompt Engineering` `AI APIs` `Tool Calling` `AI Evaluation`
+
+</p>
+
+---
+
+### 🧪 Automation & Testing
+
+<p>
+
+`Selenium` `Cypress` `Pytest` `Postman`
+
+`REST API Testing` `UI Automation`
+
+`Test Framework Design` `Regression Testing`
+
+`CI/CD Testing` `Quality Engineering`
+
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+
+<p>
+
+`Python` `FastAPI` `Java` `Spring`
+
+`REST APIs` `JSON` `API Automation`
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+
+`MongoDB` `MySQL` `Oracle`
+
+</p>
+
+---
+
+### 🔧 DevOps & Engineering Tools
+
+<p>
+
+`Git` `GitHub` `Jenkins` `Linux`
+
+`CI/CD` `Automation` `Docker`
+
+</p>
+
+---
+
+# 🏗️ System Design Interests
+
+I'm particularly interested in designing systems involving:
+
+```text
+              ┌──────────────────┐
+              │     Frontend     │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │    API Gateway   │
+              └────────┬─────────┘
+                       │
+              ┌────────▼─────────┐
+              │ Backend Services │
+              └────────┬─────────┘
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+      Database      AI/LLM       Cache
+          │            │            │
+          │            ▼            │
+          │       AI Agents         │
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+                Observability
+```
+
+Areas I'm learning and experimenting with:
+
+* Distributed systems
+* API architecture
+* Microservices
+* Event-driven systems
+* AI application architecture
+* RAG architecture
+* Agentic systems
+* Caching
+* Databases
+* Scalability
+* Reliability
+* Observability
+
+---
+
+# 🧪 Automation Engineering Experience
+
+My automation background includes:
+
+### UI Automation
+
+* Selenium
+* Cypress
+* Web automation
+* Regression automation
+* Cross-browser testing
+* Page Object Model
+* Automation framework design
+
+### API Automation
+
+* REST API testing
+* API validation
+* Postman
+* Automated API workflows
+* Integration testing
+* Response validation
+* Negative testing
+
+### Quality Engineering
+
+* Test strategy
+* Test planning
+* Test design
+* Test execution
+* Traceability
+* Regression testing
+* Defect analysis
+* Test results analysis
+* CI/CD integration
+
+---
+
+# 📈 Engineering Mindset
+
+I enjoy working on problems where engineering, automation and AI come together.
+
+```text
+        Problem
+           │
+           ▼
+     Understand
+           │
+           ▼
+       Design
+           │
+           ▼
+        Build
+           │
+           ▼
+       Automate
+           │
+           ▼
+         Test
+           │
+           ▼
+       Evaluate
+           │
+           ▼
+        Improve
+```
+
+My focus is not simply on building AI demos, but on exploring how AI can become part of **real engineering workflows**.
+
+---
+
+# 📜 Certifications
+
+* 🏆 ISTQB Certification
+* 🏆 Automation & Manual Testing – QSpiders
+* 🏆 Scrum Fundamentals Certification
+* 🏆 Six Sigma Yellow Belt
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced AI Engineering
+* LLM Application Development
+* AI Agents
+* RAG architectures
+* AI APIs
+* AI-powered testing
+* AI evaluation
+* System Design
+* Advanced Automation Engineering
+* Developer Productivity with AI
+
+---
+
+# ✍️ Writing
+
+I write about **Software Engineering, Testing, Automation, AI and emerging engineering practices**.
+
+📝 **Software Engineering Cafe**
+
+https://softwareengineeringcafe.blogspot.com/
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+* 🤖 AI Engineering projects
+* 🧠 LLM applications
+* 🔗 AI Agents
+* 🧪 AI-powered testing
+* 🔌 API automation
+* ⚙️ Developer productivity tools
+* 🏗️ System design projects
+* 🌎 Open-source projects
+* 🚀 Practical AI applications
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/sripriyapkulkarni" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://twitter.com/techiee12" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/sripriyapkulkarni12" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+
+<a href="https://medium.com/@sripriyapkulkarni" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/>
+</a>
+
+</p>
+
+📧 **Email:** [sripriyapkulkarni@gmail.com](mailto:sripriyapkulkarni@gmail.com)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sripriyapkulkarni&show_icons=true&locale=en" alt="Sri Priya's GitHub Stats"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SripriyaPKulkarni&theme=dark&background=000000" alt="GitHub Streak"/>
+
+</p>
+
+---
+
+# 💡 More About Me
+
+🌱 Always learning something new in AI and software engineering.
+
+🤖 Interested in building practical AI systems.
+
+🧪 Automation enthusiast.
+
+🏗️ Love exploring system design and engineering architecture.
+
+✍️ Technical writer and knowledge sharer.
+
+🤝 Interested in open-source collaboration.
+
+☕ **Fun fact: I love CHAI!**
+
+---
+
+<h3 align="center">
+
+💡 Learn something new every day.
+
+🚀 Build something useful.
+
+🤖 Automate what you can.
+
+</h3>
